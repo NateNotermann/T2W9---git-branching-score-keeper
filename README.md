@@ -38,6 +38,7 @@ The client finally got back to us with answers to our questions. We can now make
    - After adding and committing, merge this branch back to `main`
 - [ ] **feature-footer** - Create a footer at the bottom of the page that reads 'Made by Tomatoes inc.'
    - After adding and committing, merge this branch back to `main`
+   <!-- done -->
 
 ### Pushing to GitHub
 
